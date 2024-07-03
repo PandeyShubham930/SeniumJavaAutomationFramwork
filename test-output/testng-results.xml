@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-02T19:37:17 IST" name="All Test Suite" finished-at="2024-07-02T19:37:35 IST" duration-ms="18413">
+    <groups>
+    </groups>
+    <test started-at="2024-07-02T19:37:17 IST" name="/Users/luckythecoder/IdeaProjects/InternetBankingProject" finished-at="2024-07-02T19:37:35 IST" duration-ms="18413">
+      <class name="tests.AddNewCustomerTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:tests.AddNewCustomerTest@6385cb26]" started-at="2024-07-02T19:37:17 IST" name="setup" finished-at="2024-07-02T19:37:19 IST" duration-ms="2370" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addNewCustTest()[pri:1, instance:tests.AddNewCustomerTest@6385cb26]" started-at="2024-07-02T19:37:19 IST" name="addNewCustTest" finished-at="2024-07-02T19:37:35 IST" duration-ms="15937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AddNewCustomerTest@6385cb26]" started-at="2024-07-02T19:37:35 IST" name="tearDown" finished-at="2024-07-02T19:37:35 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.AddNewCustomerTest -->
+    </test> <!-- /Users/luckythecoder/IdeaProjects/InternetBankingProject -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

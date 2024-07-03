@@ -1,0 +1,388 @@
+2024-06-27 22:18:28,046 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:18:41,276 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:18:45,497 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:18:45,521 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:18:46,005 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:18:46,034 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:21:28,468 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:21:35,768 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:21:35,901 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:21:35,921 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:21:36,413 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:21:36,432 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:23:29,891 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:23:36,960 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:23:37,100 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:23:37,121 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:23:37,626 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:23:40,649 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:25:46,610 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:25:56,119 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:25:56,248 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:25:56,268 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:25:56,734 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:25:59,764 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:27:32,489 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:27:40,605 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:27:40,753 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:27:40,775 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:27:41,177 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:27:44,213 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:30:03,172 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:30:10,986 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:30:11,093 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:30:11,133 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:30:11,501 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:30:14,553 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:34:13,605 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:34:20,544 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:34:20,635 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:34:20,669 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:34:20,719 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:34:23,779 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:39:28,030 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:39:34,137 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:39:34,226 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:39:34,264 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:39:34,339 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:39:37,385 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:40:59,269 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:41:04,726 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:41:04,814 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:41:04,814 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:41:04,815 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:41:07,837 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:43:05,719 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:43:11,312 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:43:11,418 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:43:11,823 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:43:11,904 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:43:11,968 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 22:43:48,700 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 22:43:56,472 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 22:43:56,566 [main] INFO InternetBankingProject - Entered username
+2024-06-27 22:43:56,957 [main] INFO InternetBankingProject - Entered password
+2024-06-27 22:43:57,005 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 22:44:00,022 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 23:04:52,864 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 23:05:00,037 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 23:05:00,171 [main] INFO InternetBankingProject - Entered username
+2024-06-27 23:05:00,226 [main] INFO InternetBankingProject - Entered password
+2024-06-27 23:05:01,374 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 23:05:04,400 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 23:08:41,690 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 23:08:48,510 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 23:08:48,650 [main] INFO InternetBankingProject - Entered username
+2024-06-27 23:08:48,715 [main] INFO InternetBankingProject - Entered password
+2024-06-27 23:08:49,698 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 23:08:52,721 [main] INFO InternetBankingProject - closing the browser
+2024-06-27 23:12:10,754 [main] INFO InternetBankingProject - opening the browser
+2024-06-27 23:12:19,316 [main] INFO InternetBankingProject - URL is opened
+2024-06-27 23:12:19,390 [main] INFO InternetBankingProject - Entered username
+2024-06-27 23:12:19,408 [main] INFO InternetBankingProject - Entered password
+2024-06-27 23:12:20,475 [main] INFO InternetBankingProject - clicked on login button
+2024-06-27 23:12:23,507 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 11:17:08,977 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 11:17:16,196 [main] INFO InternetBankingProject - URL is opened
+2024-07-01 11:17:16,275 [main] INFO InternetBankingProject - Entered username
+2024-07-01 11:17:16,294 [main] INFO InternetBankingProject - Entered password
+2024-07-01 11:17:17,326 [main] INFO InternetBankingProject - clicked on login button
+2024-07-01 11:17:20,347 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 11:31:06,363 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 11:31:13,173 [main] INFO InternetBankingProject - URL is opened
+2024-07-01 11:31:13,244 [main] INFO InternetBankingProject - Entered username
+2024-07-01 11:31:13,267 [main] INFO InternetBankingProject - Entered password
+2024-07-01 11:31:14,367 [main] INFO InternetBankingProject - clicked on login button
+2024-07-01 11:31:17,386 [main] INFO InternetBankingProject - test case is passed
+2024-07-01 11:31:17,394 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 11:31:52,032 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 11:31:58,180 [main] INFO InternetBankingProject - URL is opened
+2024-07-01 11:31:58,272 [main] INFO InternetBankingProject - Entered username
+2024-07-01 11:31:58,288 [main] INFO InternetBankingProject - Entered password
+2024-07-01 11:31:59,438 [main] INFO InternetBankingProject - clicked on login button
+2024-07-01 11:32:02,581 [main] INFO InternetBankingProject - test case is failed
+2024-07-01 11:32:02,587 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 11:34:50,272 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 11:34:56,548 [main] INFO InternetBankingProject - URL is opened
+2024-07-01 11:34:56,644 [main] INFO InternetBankingProject - Entered username
+2024-07-01 11:34:56,656 [main] INFO InternetBankingProject - Entered password
+2024-07-01 11:34:57,721 [main] INFO InternetBankingProject - clicked on login button
+2024-07-01 11:35:00,864 [main] INFO InternetBankingProject - test case is failed
+2024-07-01 11:35:00,870 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 13:41:27,324 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 13:41:39,960 [main] INFO InternetBankingProject - test case passed
+2024-07-01 13:41:42,028 [main] WARN InternetBankingProject - login Failed
+2024-07-01 13:41:43,874 [main] WARN InternetBankingProject - login Failed
+2024-07-01 13:41:43,876 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 13:46:57,210 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 13:47:06,541 [main] INFO InternetBankingProject - test case passed
+2024-07-01 13:47:09,402 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 13:52:54,161 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 13:53:04,629 [main] INFO InternetBankingProject - test case passed
+2024-07-01 13:53:07,345 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 13:56:45,917 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 13:56:57,511 [main] INFO InternetBankingProject - test case passed
+2024-07-01 13:57:01,128 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 13:58:37,567 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 13:58:51,093 [main] INFO InternetBankingProject - test case passed
+2024-07-01 13:58:58,716 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 14:05:18,052 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 14:05:29,727 [main] INFO InternetBankingProject - test case passed
+2024-07-01 14:05:33,386 [main] INFO InternetBankingProject - screenshot captured
+2024-07-01 14:05:33,388 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-01 14:05:37,174 [main] INFO InternetBankingProject - screenshot captured
+2024-07-01 14:05:37,179 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-01 14:05:37,183 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 14:49:45,627 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 14:49:58,279 [main] INFO InternetBankingProject - test case passed
+2024-07-01 14:49:59,542 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 14:52:14,974 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 14:52:27,111 [main] INFO InternetBankingProject - test case passed
+2024-07-01 14:52:30,643 [main] INFO InternetBankingProject - screenshot captured
+2024-07-01 14:52:30,654 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-01 14:52:34,122 [main] INFO InternetBankingProject - screenshot captured
+2024-07-01 14:52:34,133 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-01 14:52:34,139 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 14:54:26,880 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 14:54:36,938 [main] INFO InternetBankingProject - test case passed
+2024-07-01 14:54:40,600 [main] INFO InternetBankingProject - screenshot captured
+2024-07-01 14:54:42,207 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-01 14:54:45,485 [main] INFO InternetBankingProject - screenshot captured
+2024-07-01 14:54:46,945 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-01 14:54:46,949 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 14:57:22,611 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 14:57:33,779 [main] INFO InternetBankingProject - URL is opened
+2024-07-01 14:57:33,915 [main] INFO InternetBankingProject - Entered username
+2024-07-01 14:57:33,972 [main] INFO InternetBankingProject - Entered password
+2024-07-01 14:57:34,966 [main] INFO InternetBankingProject - clicked on login button
+2024-07-01 14:57:37,985 [main] INFO InternetBankingProject - test case is passed
+2024-07-01 14:57:37,988 [main] INFO InternetBankingProject - closing the browser
+2024-07-01 14:57:38,105 [main] INFO InternetBankingProject - opening the browser
+2024-07-01 14:57:49,791 [main] INFO InternetBankingProject - test case passed
+2024-07-01 14:57:50,769 [main] INFO InternetBankingProject - screenshot captured
+2024-07-01 14:57:51,651 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-01 14:57:52,615 [main] INFO InternetBankingProject - screenshot captured
+2024-07-01 14:57:53,494 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-01 14:57:53,495 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:03:22,186 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:03:28,149 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:03:31,947 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:03:32,031 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:07:13,266 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:07:16,585 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:07:22,935 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:07:22,994 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 18:07:23,020 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:09:33,100 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:09:41,267 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:10:19,830 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:10:22,029 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:24:09,531 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:24:16,047 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:24:19,785 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:24:21,851 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 18:24:21,889 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:25:04,353 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:25:10,806 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:25:14,865 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:25:16,917 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 18:25:16,948 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:32:15,379 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:32:18,724 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:32:26,337 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:32:28,442 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:33:02,596 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:33:10,598 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:33:14,900 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:33:17,002 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:35:59,648 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:36:06,356 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:36:10,582 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:36:12,861 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:36:19,262 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:36:25,722 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:36:29,963 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:36:32,901 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:52:21,918 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:52:28,561 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:52:34,605 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:52:37,143 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:52:58,545 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:53:25,517 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:53:31,220 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:53:35,426 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:53:42,521 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:54:01,874 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:54:08,280 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:54:12,052 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 18:54:19,119 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 18:54:19,702 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 18:58:41,226 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 18:58:47,989 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 18:58:55,010 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 18:58:55,630 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:02:14,909 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:02:21,793 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:02:23,816 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:02:28,435 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:05:34,110 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:05:37,325 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:05:39,351 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:05:49,726 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:06:42,788 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:06:46,048 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:06:48,068 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:06:58,732 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:08:45,051 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:09:24,358 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:09:26,384 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:09:26,398 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:09:30,102 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:09:33,354 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:09:35,377 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:09:47,514 [main] INFO InternetBankingProject - TestCase passed
+2024-07-02 19:09:47,522 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:11:15,607 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:11:21,889 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:11:23,920 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:11:28,961 [main] INFO InternetBankingProject - TestCase passed
+2024-07-02 19:11:28,967 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:15:21,458 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:15:25,095 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:15:29,069 [main] INFO InternetBankingProject - Entered username
+2024-07-02 19:15:29,103 [main] INFO InternetBankingProject - Entered password
+2024-07-02 19:15:30,794 [main] INFO InternetBankingProject - clicked on login button
+2024-07-02 19:15:33,814 [main] INFO InternetBankingProject - test case is passed
+2024-07-02 19:15:33,817 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:15:33,937 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:15:45,012 [main] INFO InternetBankingProject - test case passed
+2024-07-02 19:15:46,510 [main] INFO InternetBankingProject - screenshot captured
+2024-07-02 19:15:47,635 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-02 19:15:49,005 [main] INFO InternetBankingProject - screenshot captured
+2024-07-02 19:15:50,739 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-02 19:15:50,742 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:15:50,863 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:15:56,677 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:15:58,686 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:16:03,691 [main] INFO InternetBankingProject - TestCase passed
+2024-07-02 19:16:03,692 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:18:45,790 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:18:56,787 [main] INFO InternetBankingProject - test case passed
+2024-07-02 19:18:57,949 [main] INFO InternetBankingProject - screenshot captured
+2024-07-02 19:18:58,970 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-02 19:19:00,741 [main] INFO InternetBankingProject - screenshot captured
+2024-07-02 19:19:02,414 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-02 19:19:02,419 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:19:02,539 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:19:08,126 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:19:10,132 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:19:15,087 [main] INFO InternetBankingProject - TestCase passed
+2024-07-02 19:19:15,089 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:21:05,361 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:21:11,780 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:21:11,895 [main] INFO InternetBankingProject - Entered username
+2024-07-02 19:21:11,928 [main] INFO InternetBankingProject - Entered password
+2024-07-02 19:21:13,497 [main] INFO InternetBankingProject - clicked on login button
+2024-07-02 19:21:16,519 [main] INFO InternetBankingProject - test case is passed
+2024-07-02 19:21:16,522 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:21:16,631 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:21:27,513 [main] INFO InternetBankingProject - test case passed
+2024-07-02 19:21:28,650 [main] INFO InternetBankingProject - screenshot captured
+2024-07-02 19:21:30,372 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-02 19:21:31,814 [main] INFO InternetBankingProject - screenshot captured
+2024-07-02 19:21:33,252 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-02 19:21:33,254 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:21:33,374 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:21:35,981 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:21:37,992 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:21:44,998 [main] INFO InternetBankingProject - TestCase passed
+2024-07-02 19:21:44,999 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:35:26,331 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:35:33,197 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:35:37,466 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 19:35:40,526 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:35:50,598 [main] INFO InternetBankingProject - closing the browser
+2024-07-02 19:37:17,525 [main] INFO InternetBankingProject - opening the browser
+2024-07-02 19:37:23,962 [main] INFO InternetBankingProject - URL is opened
+2024-07-02 19:37:27,904 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-02 19:37:30,961 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-02 19:37:35,752 [main] INFO InternetBankingProject - TestCase passed
+2024-07-02 19:37:35,757 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 14:53:09,423 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 14:53:15,669 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 14:53:19,008 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-03 14:53:22,067 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-03 14:53:35,448 [main] INFO InternetBankingProject - TestCase passed
+2024-07-03 14:53:35,455 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 14:55:33,636 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 14:55:39,306 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 14:55:39,438 [main] INFO InternetBankingProject - Entered username
+2024-07-03 14:55:39,493 [main] INFO InternetBankingProject - Entered password
+2024-07-03 14:55:41,253 [main] INFO InternetBankingProject - clicked on login button
+2024-07-03 14:55:44,270 [main] INFO InternetBankingProject - test case is passed
+2024-07-03 14:55:44,273 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 14:55:44,373 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 14:55:53,884 [main] INFO InternetBankingProject - test case passed
+2024-07-03 14:55:55,651 [main] INFO InternetBankingProject - screenshot captured
+2024-07-03 14:55:56,712 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-03 14:55:57,909 [main] INFO InternetBankingProject - screenshot captured
+2024-07-03 14:55:59,254 [main] WARN InternetBankingProject - login Failed >> User is not valid
+2024-07-03 14:55:59,255 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 14:55:59,344 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 14:56:04,347 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 14:56:07,879 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-03 14:56:10,939 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-03 14:56:16,533 [main] INFO InternetBankingProject - TestCase passed
+2024-07-03 14:56:16,535 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 15:02:35,029 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 15:02:41,247 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 15:02:41,413 [main] INFO InternetBankingProject - Entered username
+2024-07-03 15:02:41,489 [main] INFO InternetBankingProject - Entered password
+2024-07-03 15:02:42,992 [main] INFO InternetBankingProject - clicked on login button
+2024-07-03 15:02:46,010 [main] INFO InternetBankingProject - test case is passed
+2024-07-03 15:02:46,015 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 15:02:46,109 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 15:02:51,117 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 15:02:54,441 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-03 15:02:57,489 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-03 15:03:03,260 [main] INFO InternetBankingProject - TestCase passed
+2024-07-03 15:03:03,262 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 15:03:15,815 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 15:03:21,007 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 15:03:21,141 [main] INFO InternetBankingProject - Entered username
+2024-07-03 15:03:21,185 [main] INFO InternetBankingProject - Entered password
+2024-07-03 15:03:22,718 [main] INFO InternetBankingProject - clicked on login button
+2024-07-03 15:03:25,739 [main] INFO InternetBankingProject - test case is passed
+2024-07-03 15:03:25,743 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 15:03:25,845 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 15:03:30,807 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 15:03:34,495 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-03 15:03:37,555 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-03 15:03:43,191 [main] INFO InternetBankingProject - TestCase passed
+2024-07-03 15:03:43,192 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 15:05:45,393 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 15:05:48,747 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 15:05:51,591 [main] INFO InternetBankingProject - Entered username
+2024-07-03 15:05:51,657 [main] INFO InternetBankingProject - Entered password
+2024-07-03 15:05:53,843 [main] INFO InternetBankingProject - clicked on login button
+2024-07-03 15:05:56,860 [main] INFO InternetBankingProject - test case is passed
+2024-07-03 15:05:56,864 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 15:05:56,967 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 15:06:02,991 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 15:06:06,896 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-03 15:06:09,955 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-03 15:06:14,840 [main] INFO InternetBankingProject - TestCase passed
+2024-07-03 15:06:14,841 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 15:06:44,121 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 15:06:49,529 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 15:06:49,648 [main] INFO InternetBankingProject - Entered username
+2024-07-03 15:06:49,685 [main] INFO InternetBankingProject - Entered password
+2024-07-03 15:06:51,482 [main] INFO InternetBankingProject - clicked on login button
+2024-07-03 15:06:54,513 [main] INFO InternetBankingProject - test case is passed
+2024-07-03 15:06:54,517 [main] INFO InternetBankingProject - closing the browser
+2024-07-03 15:06:54,613 [main] INFO InternetBankingProject - opening the browser
+2024-07-03 15:06:59,696 [main] INFO InternetBankingProject - URL is opened
+2024-07-03 15:07:03,463 [main] INFO InternetBankingProject - user successfully logged in
+2024-07-03 15:07:06,532 [main] INFO InternetBankingProject - opened the new customer page
+2024-07-03 15:07:11,999 [main] INFO InternetBankingProject - TestCase passed
+2024-07-03 15:07:12,001 [main] INFO InternetBankingProject - closing the browser

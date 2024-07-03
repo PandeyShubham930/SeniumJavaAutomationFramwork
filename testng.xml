@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/luckythecoder/IdeaProjects/InternetBankingProject">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <!--<class name="tests.LoginPageTest">
+                <methods>
+                    <exclude name="loginTest"></exclude> excluding a method in testNG
+                </methods>
+            </class>-->
+            <class name="tests.LoginPageTest"/>
+<!--            <class name="tests.LoginPageDataDrivenTest"/>-->
+            <class name="tests.AddNewCustomerTest"/>
+        </classes>
+    </test>
+</suite>
