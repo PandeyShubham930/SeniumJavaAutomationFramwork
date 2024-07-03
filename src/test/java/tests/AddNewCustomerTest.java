@@ -16,18 +16,18 @@ public class AddNewCustomerTest extends BaseClass {
     @Test(priority = 1)
     public void addNewCustTest() throws InterruptedException, IOException {
 
-        driver.get(baseURL);
+        driver.get("https://demo.guru99.com/V1/html/addcustomerpage.php");
         logger.info("URL is opened");
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        LoginPage lp = new LoginPage(driver);
-        lp.setUsername(username);
-        lp.setPassword(password);
-        lp.clickOnLoginBtn();
-        Thread.sleep(2000);
-        logger.info("user successfully logged in");
-
+//        LoginPage lp = new LoginPage(driver);
+//        lp.setUsername(username);
+//        lp.setPassword(password);
+//        lp.clickOnLoginBtn();
+//        Thread.sleep(2000);
+//        logger.info("user successfully logged in");
+//
         AddNewCustomer ad = new AddNewCustomer(driver);
-        ad.clickOnNewCustomer();
+//        ad.clickOnNewCustomer();
         Thread.sleep(3000);
 //        ad.clickCloseAddButton();
         logger.info("opened the new customer page");
